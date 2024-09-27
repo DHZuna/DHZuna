@@ -1,3 +1,2 @@
-Olá, eu sou Daniel! 👋
+# Olá, me chamo Daniel Zunarelli! 👋
 
-Sou um entusiasta de tecnologia e iniciante na área de programação, com um foco especial em Data Engineering.
