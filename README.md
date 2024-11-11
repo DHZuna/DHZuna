@@ -1,4 +1,4 @@
-# Olá, sou [Daniel Zunarelli] 👋
+# Olá, sou Daniel Zunarelli 
 
 👨‍💻 **Analista de Negócios | Engenheiro de Dados em Formação | Desenvolvedor de Soluções em Dados**
 
